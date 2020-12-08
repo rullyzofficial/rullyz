@@ -4,7 +4,7 @@
 		<!-- Required meta tags -->
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<title>Whatsapp Message Send Using PHP</title>
+		<title>@rullyzofficial</title>
 
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
@@ -16,7 +16,9 @@
 				<div class="col-sm-6">
 					<div class="card">
 						<div class="card-header text-center bg-primary text-white text-uppercase">
-							Send Message on Whatsapp using PHP
+							bu site fake numara üzerinden istediğiniz numaraya whatsappdan mesaj atmanıza yarar
+                            <br>
+							@rullyzofficial 
 						</div>
 						<div class="card-body">
 							<form action="" method="post">
@@ -27,7 +29,7 @@
 									<input type="text" name="message" placeholder="Write Message"class="form-control">
 								</div>
 								<div class="form-group">
-									<input type="submit" class="btn btn-primary" name="submit" value="Send Message">
+									<input type="submit" class="btn btn-primary" name="submit" value="Gönder">
 								</div>
 							</form>
 						</div>
@@ -52,7 +54,7 @@ if(isset($_POST['submit']))
 ];
 $json = json_encode($data); // Encode data to JSON
 // URL for request POST /message
-$url = 'https://eu138.chat-api.com/instance136593/message?token=9d4j8zvj4eantnmr';
+$url = 'https://eu204.chat-api.com/instance203393/message?token=5a6tk16f6g1samsd';
 // Make a POST request
 $options = stream_context_create(['http' => [
         'method'  => 'POST',
