@@ -23,10 +23,10 @@
 						<div class="card-body">
 							<form action="" method="post">
 								<div class="form-group">
-									<input type="text" name="mobile" placeholder="Enter Mobile Number"class="form-control">
+									<input type="text" name="mobile" placeholder="Telefon numarasını gir"class="form-control">
 								</div>
 								<div class="form-group">
-									<input type="text" name="message" placeholder="Write Message"class="form-control">
+									<input type="text" name="message" placeholder="Mesajı yaz"class="form-control">
 								</div>
 								<div class="form-group">
 									<input type="submit" class="btn btn-primary" name="submit" value="Gönder">
@@ -71,12 +71,3 @@ print_r($result);
 
 
  ?>
-
-
-
-
-
-
-
-
-
